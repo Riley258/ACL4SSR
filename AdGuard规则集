@@ -23,18 +23,17 @@ https://doh.360.cn
 180.76.76.76
 
 国外
-https://dns.quad9.net/dns-query
 https://dns.google/dns-query
-https://cloudflare-dns.com/dns-query
-https://doh.dns.sb/dns-query
+https://dns.twnic.tw/dns-query
 https://doh.opendns.com/dns-query
-https://dns.adguard-dns.com/dns-query
+https://cloudflare-dns.com/dns-query
+
+日本dns
+https://doh.dns.sb/dns-query
 
 台湾dns
 https://dns.twnic.tw/dns-query
 
-日本dns
-https://doh.dns.sb/dns-query
 
 俄罗斯dns
 https://common.dot.dns.yandex.net
